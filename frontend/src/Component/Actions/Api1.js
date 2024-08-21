@@ -1,3 +1,3 @@
 
-const api = "http://localhost:9000";
+const api = "https://blogging-platform-backend-4w7b.onrender.com";
 export default api;
